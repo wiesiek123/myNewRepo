@@ -3,5 +3,7 @@ Druga Linia
 Trzecia Linia
 Czakl
 kurczaki 
+gesi
+kaczki
 5ta linijka
 6sta linijka
