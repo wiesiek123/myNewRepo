@@ -1,4 +1,3 @@
 Pierwsza Linia
 Druga Linia
-Dwa i Po³ !
 Trzecia Linia
