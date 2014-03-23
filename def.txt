@@ -2,5 +2,6 @@ Pierwsza Linia Wierszowa
 Druga Linia
 Trzecia Linia
 Czakl
+kurczaki 
 5ta linijka
 6sta linijka
