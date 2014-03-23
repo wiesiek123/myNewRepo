@@ -2,3 +2,5 @@ Pierwsza Linia Wierszowa
 Druga Linia
 Trzecia Linia
 Czakl
+5ta linijka
+6sta linijka
